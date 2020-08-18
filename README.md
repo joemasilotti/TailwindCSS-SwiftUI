@@ -1,4 +1,4 @@
-# TailwindCSS SwiftUI
+![TailwindCSS SwiftUI](.github/logo.png)
 
 This package adds [TailwindCSS colors](https://tailwindcss.com/docs/background-color) to your SwiftUI project.
 
