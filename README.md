@@ -33,7 +33,7 @@ Add the following to the `dependencies` option in `Package.swift`.
 .package(url: "https://github.com/joemasilotti/TailwindCSS-SwiftUI", branch: "main")
 ```
 
-Or, copy and paste `Theme.swift` into your project.
+Or, copy and paste [`Theme.swift`](Sources/TailwindCSS-SwiftUI/Theme.swift) into your project.
 
 ## How to use
 
